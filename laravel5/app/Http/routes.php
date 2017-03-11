@@ -11,6 +11,15 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('hello-world', function () {
+    return ('Hello-world');
+});
+// Route::get('b2015', function () {
+//     echo('B2015');
+// });
+// Route::get('Fegy Altama', function () {
+//     echo('fegyaltama');
+// });
+Route::get('pengguna/{pengguna?}', function($pengguna="hamba allah"){
+ return "Hello world dari pengguna $pengguna";
 });
