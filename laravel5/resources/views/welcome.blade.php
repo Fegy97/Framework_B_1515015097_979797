@@ -16,7 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Lato';
+                font-family: 'arial';
             }
 
             .container {
@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">IKEH IKEH KIMOCHI</div>
             </div>
         </div>
     </body>
