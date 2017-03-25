@@ -17,6 +17,7 @@
                 display: table;
                 font-weight: 100;
                 font-family: 'arial';
+                color: #FF8C00
             }
 
             .container {
@@ -38,7 +39,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">IKEH IKEH KIMOCHI</div>
+                <div class="title">MOHON BERSABAR INI UJIAN</div>
             </div>
         </div>
     </body>
