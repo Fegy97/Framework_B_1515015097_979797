@@ -17,7 +17,7 @@ class DosenController extends Controller
     }
     public function simpan(){
     	$dosen = new Dosen();
-    	$dosen->nama = "Andre Prasetya Rahman";
+    	$dosen->nama = "fegy";
     	$dosen->nip = "1515015080";
     	$dosen->alamat = "Perjuangan 07";
     	$dosen->pengguna_id = 3;
