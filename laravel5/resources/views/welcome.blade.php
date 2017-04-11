@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Laravel Fegy ALtama</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -16,8 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'arial';
-                color: #FF8C00
+                font-family: 'Lato';
             }
 
             .container {
@@ -32,14 +31,15 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 128px;
+				font-weight:bold;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">MOHON BERSABAR INI UJIAN</div>
+                <div class="title">Fegy</div>
             </div>
         </div>
     </body>
