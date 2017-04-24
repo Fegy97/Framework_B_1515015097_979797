@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel Fegy ALtama</title>
+        <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -31,16 +31,15 @@
             }
 
             .title {
-                font-size: 128px;
-				font-weight:bold;
+                font-size: 96px;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Fegy</div>
+                <div class="title">fegy</div>
             </div>
         </div>
     </body>
-</html>
+</html> 
